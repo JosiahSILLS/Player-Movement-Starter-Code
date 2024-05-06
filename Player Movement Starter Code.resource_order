@@ -6,6 +6,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_player_wall","order":5,"path":"sprites/spr_player_wall/spr_player_wall.yy",},
+    {"name":"object_control","order":4,"path":"objects/object_control/object_control.yy",},
     {"name":"spr_player_slide","order":4,"path":"sprites/spr_player_slide/spr_player_slide.yy",},
     {"name":"spr_player_fall","order":1,"path":"sprites/spr_player_fall/spr_player_fall.yy",},
     {"name":"spr_tiles","order":3,"path":"sprites/spr_tiles/spr_tiles.yy",},
