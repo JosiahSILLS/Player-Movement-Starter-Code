@@ -35,3 +35,4 @@ slidestuck_spd = 1;
 slidestuck = false;
 
 disabled = false;
+normal_color = image_blend;
