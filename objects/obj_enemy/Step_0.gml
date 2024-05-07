@@ -1,5 +1,4 @@
-/// @description Core enemy logic
-// You can write your code in this editor
+/// @description Core Enemy Logic
 
 //Horizontal collision
 if (place_meeting(x + speed, y, obj_wall)) {
