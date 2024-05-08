@@ -24,7 +24,7 @@ if (place_meeting(x + speed, y, obj_wall)) {
 	if (speed == 0) {
 		sprite_index = spr_enemy;
 	} else {
-		sprite_index = spr_enemy_run;
+		sprite_index = spr_enemy;
 	}
 }
 
